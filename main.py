@@ -39,7 +39,7 @@ def startSurfing():
 
     print "__VIEWSTATE2 value is {}".format(__VIEWSTATE2)
     print  "============================================================================================="
-    tag = "thinking"
+    tag = "inspirational"
 
 
     #data = urllib.urlencode({'author':author,'tag':tag, '__VIEWSTATE':view2})
